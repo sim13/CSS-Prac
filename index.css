@@ -1,0 +1,100 @@
+
+/*body {
+
+font-family : 'Lato',serif;
+font-weight:  200;
+opacity : 1;
+}*/
+
+
+#heading{
+
+font-weight:  100px;
+width : 100%;
+/*height : 55px;*/
+text-align:  center;
+/*top : 30px;*/
+padding : 15px 0 ;
+cursor: pointer;
+/*position : absolute;*/
+border :15px solid #424242;
+-webkit-transition: 0.5s ease-out;
+}
+
+.menu{
+width :100%;
+text-align: center ;
+
+
+}
+#upload_button{
+position : absolute;
+top : 200px;
+left : 375px;
+padding: 15px 10px ;
+cursor :pointer;
+background-color:  #3299BB;
+text-align: center ;
+border-radius:  3px;
+box-shadow: 5px 5px 5px #888888;
+
+
+}
+
+.menu-item{
+/*position :absolute;*/
+/*top : 30px;*/
+display: inline-block;
+height :20px;
+width : 30px;
+padding : 0 50px;
+cursor: pointer ;
+
+}
+.menu-item:hover{
+
+background-color:  #93CCC6;
+
+}
+#show_tree{
+position : absolute;
+cursor:pointer;
+top : 200px;
+left: 650px ;
+padding: 15px 10px ;
+background-color:  #3299BB;
+text-align: center ;
+border-radius:  3px;
+box-shadow: 5px 5px 5px #888888;
+
+}
+
+#hash{
+position : absolute;
+cursor:pointer;
+top : 200px;
+left: 900px ;
+padding: 15px 10px ;
+background-color:  #3299BB;
+text-align: center ;
+border-radius:  3px;
+box-shadow: 5px 5px 5px #888888;
+
+}
+
+#hash:hover{
+background-color: #BCBCBC;
+
+}
+
+#show_tree:hover{
+
+
+	background-color: #BCBCBC;
+}
+#upload_button:hover{
+ 
+
+   background-color: #BCBCBC ;
+
+}
